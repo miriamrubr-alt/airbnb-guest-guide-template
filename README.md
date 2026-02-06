@@ -116,5 +116,27 @@ A structured welcome guide improves:
 
 ---
 
+## Other languages
+
+This template is also available in multiple languages:
+
+- French: french.md
+- German: german.md
+- Spanish: spanish.md
+- Italian: italian.md
+- Portuguese: portuguese.md
+
+---
+
+## Related templates
+
+You may also find useful:
+
+- Check-in instructions example: airbnb-checkin-instructions.md
+- House rules example: house-rules-template.md
+
+
+---
+
 ## License
 MIT — free for personal and commercial use.
