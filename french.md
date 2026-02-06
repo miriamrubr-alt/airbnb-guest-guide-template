@@ -58,25 +58,29 @@ Un guide numérique automatisé évite :
 
 ## Automatiser l’envoi du guide
 
-Certains hôtes utilisent un logiciel pour envoyer automatiquement les instructions et centraliser les messages voyageurs.
+Certains hôtes utilisent un logiciel pour envoyer automatiquement les instructions et centraliser les messages Airbnb.
 
-Plateforme Host-Pilot :  
-https://www.host-pilot.ai/fr
+Présentation de la plateforme :  
+[logiciel d’automatisation pour hôtes Airbnb](https://www.host-pilot.ai/fr)
 
-Solution de gestion location saisonnière :  
-https://www.host-pilot.ai/fr/vacation-rental-management-software
+Pour gérer plusieurs réservations, un  
+[logiciel de gestion Airbnb et location saisonnière](https://www.host-pilot.ai/fr/vacation-rental-management-software)  
+peut envoyer automatiquement les instructions et rappels avant l’arrivée.
 
-Messagerie voyageurs intelligente :  
-https://www.host-pilot.ai/fr/hostgpt
+Pour répondre aux questions fréquentes des invités, vous pouvez utiliser une  
+[messagerie automatique Airbnb pour hôtes](https://www.host-pilot.ai/fr/hostgpt)  
+qui traite les demandes courantes sans intervention manuelle.
 
 ---
 
 ## Réservations directes
 
-Pour les propriétaires qui acceptent les réservations directes, le guide est encore plus important car les plateformes n’envoient aucune instruction automatiquement.
+Pour les propriétaires qui acceptent les réservations directes, le guide devient encore plus important car les plateformes n’envoient pas toujours les informations d’arrivée.
 
-Créer un site de réservation directe :  
-https://www.host-pilot.ai/fr/direct-booking-website
+Vous pouvez connecter votre guide à un  
+[site de réservation directe pour location Airbnb](https://www.host-pilot.ai/fr/direct-booking-website)  
+afin que les voyageurs reçoivent automatiquement les instructions après réservation.
+
 
 ---
 
