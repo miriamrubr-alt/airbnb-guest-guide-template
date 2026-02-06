@@ -71,23 +71,27 @@ A digital guest guide that is automatically sent before check-in prevents:
 
 Some hosts use automation software to send the guide automatically and centralize guest communication.
 
-Host-Pilot platform:  
-https://www.host-pilot.ai/
+The full platform overview:  
+[short-term rental automation software](https://www.host-pilot.ai/)
 
-Vacation rental software overview:  
-https://www.host-pilot.ai/vacation-rental-management-software
+If you manage multiple bookings, a dedicated  
+[vacation rental management software](https://www.host-pilot.ai/vacation-rental-management-software)  
+can automatically send instructions and reminders.
 
-AI guest messaging (Smart Inbox):  
-https://www.host-pilot.ai/hostgpt
+For handling daily guest questions you can use an  
+[AI guest messaging assistant](https://www.host-pilot.ai/hostgpt)  
+that replies to common traveler requests.
 
 ---
 
 ## Direct booking owners
 
-If you accept direct bookings, a guide is even more important because guests do not receive platform instructions.
+If you accept reservations outside Airbnb, instructions become even more important.
 
-Direct booking website for short-term rentals:  
-https://www.host-pilot.ai/direct-booking-website
+You can connect your guide to a  
+[direct booking website for vacation rentals](https://www.host-pilot.ai/direct-booking-website)  
+so guests receive information automatically after booking.
+
 
 ---
 
